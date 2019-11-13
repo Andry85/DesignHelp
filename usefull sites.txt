@@ -24,7 +24,7 @@ http://wud.ru/
 http://userexperience.ru/
 https://conversionxl.com/blog/
 http://ui-patterns.com/
-
+https://uxmag.com/
 
 competitions
 -------------
@@ -59,3 +59,19 @@ https://www.amazon.com/Designing-Emotion-Aaron-Walter/dp/1937557006
 Maind Map
 -----------
 https://www.draw.io/
+
+
+Creatin Wareframes
+---------------------
+https://balsamiq.com/
+
+
+UI Kit
+-------------------
+https://line25.com/articles/top-places-to-find-free-photoshop-ui-kits-online
+https://freebiesbug.com/
+http://graphicburger.com/
+https://design.tutsplus.com/tutorials/10-things-you-need-to-know-about-smart-objects-in-photoshop--cms-20268
+https://www.youtube.com/user/envatopsd/playlists
+https://www.smashingmagazine.com/professional-photoshop-techniques-tutorials/
+https://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/
